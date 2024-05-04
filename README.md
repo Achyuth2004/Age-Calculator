@@ -19,7 +19,7 @@ To use Age Calculator component in your project, follow these steps:
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-##Sample Screenshot
+## Sample Screenshot
 ![image](https://github.com/Achyuth2004/Age-Calculator/assets/103745084/86482b7a-08b7-455a-99f5-55f3cd58ee04)
 
 ## Example
@@ -37,5 +37,6 @@ function App() {
 
 export default App;
 
+## Instruction
 Make sure to replace your code with the above carefully
 Happy Coding 🎯!
